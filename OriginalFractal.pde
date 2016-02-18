@@ -1,6 +1,5 @@
 int h = 0;
 int x = 50;
-
 public void setup()
 {
 	size(1100,1100);
